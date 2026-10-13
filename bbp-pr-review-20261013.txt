@@ -1,0 +1,2 @@
+BBP synthetic pull request fixture Q6R2.
+No production data. This change adds a single inert text file for an owned Muse connector authorization test.
